@@ -1,2 +1,2 @@
-# webGPU
-WebGPU Ply Loader PoC
+## WebGPU
+WebGPU Point Cloud Loader (.ply) PoC
